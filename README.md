@@ -15,7 +15,7 @@ This is a 2D game built in Java using Swing for rendering and a custom game engi
 
 ## How to Run
 - Clone this repository.
-- Open the project in your Java IDE .(git clone https://github.com/jawadnaim-code/GAME-project.gitcd GAME-project)
+- Open the project in your Java IDE .(git clone https://github.com/jawadnaim-code/GAME-project- cd GAME-project)
 - javac -d bin -sourcepath src src/Main.java
 - java -cp bin Main
 - Ensure the `img` and `data` directories are in the root of the project.
