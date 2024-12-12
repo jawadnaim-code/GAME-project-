@@ -14,14 +14,12 @@ This is a 2D game built in Java using Swing for rendering and a custom game engi
 - Modular engines for rendering, physics, and game logic.
 
 ## How to Run
-1. Clone this repository.
-2. Open the project in your Java IDE (e.g., IntelliJ IDEA, Eclipse, or VSCode).(git clone https://github.com/jawadnaim-code/GAME-project.git
-cd GAME-project)
-
-3.javac -d bin -sourcepath src src/Main.java
-4.java -cp bin Main
-5. Ensure the `img` and `data` directories are in the root of the project.
-6. Run the `Main` class.
+- Clone this repository.
+- Open the project in your Java IDE .(git clone https://github.com/jawadnaim-code/GAME-project.gitcd GAME-project)
+- javac -d bin -sourcepath src src/Main.java
+- java -cp bin Main
+- Ensure the `img` and `data` directories are in the root of the project.
+- Run the `Main` class.
 
 ## Dependencies
 - Java 8 or higher
