@@ -1,5 +1,6 @@
 # GAME-project-
-JAVA class lab work project
+JAVA class lab work project 
+NOTE : the added comments are for my understanding as this is my first java coding practice
 # my-game-project
 JAVA class lab work
 # My Game Project
